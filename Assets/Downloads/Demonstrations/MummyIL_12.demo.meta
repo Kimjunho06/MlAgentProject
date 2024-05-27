@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 86b9a4619fc821a4c8132ce51b28c855
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: ' (Unity.MLAgents.Demonstrations.DemonstrationSummary)'
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 7bd65ce151aaa4a41a45312543c56be1, type: 3}

@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1710138593",
+        "python_version": "3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\mlagents-learn D:\\GameProgramming_AI\\MLAgent_Practice\\ml-agents-release_20\\config\\ppo\\MummyGo.yaml --run-id=mummygo01 --results-dir=D:\\GameProgramming_AI\\MLAgent_Practice\\ml-agents-release_20\\results2",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1710138598"
+    },
+    "total": 4.984263400000001,
+    "count": 1,
+    "self": 0.008003700000000613,
+    "children": {
+        "run_training.setup": {
+            "total": 0.06302019999999997,
+            "count": 1,
+            "self": 0.06302019999999997
+        },
+        "TrainerController.start_learning": {
+            "total": 4.9132394999999995,
+            "count": 1,
+            "self": 0.00010179999999948564,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 4.9131245,
+                    "count": 1,
+                    "self": 4.9131245
+                },
+                "TrainerController._save_models": {
+                    "total": 1.3199999999713441e-05,
+                    "count": 1,
+                    "self": 1.3199999999713441e-05
+                }
+            }
+        }
+    }
+}

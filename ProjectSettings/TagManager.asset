@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WALL
+  - TARGET
+  - BAD_ITEM
+  - GOOD_ITEM
+  - FISH
+  - BABY_PENGUIN
+  - Obstacle
+  - Scoring
+  - HINT
+  - BLUE
+  - RED
+  - GREEN
+  - PURPLE
+  - YELLOW
+  - BALL
+  - RED_GOAL
+  - BLUE_GOAL
+  - GREEN_GOAL
+  - YELLOW_GOAL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - RaySensorException
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
